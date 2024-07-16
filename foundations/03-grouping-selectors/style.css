@@ -1,14 +1,14 @@
-.alpha, 
-.beta {
+.inverted, 
+.yellow {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.alpha {
+.inverted {
     background-color: #050202;
-    color: #ffffff;
+    color: white;
 }
 
-.beta {
-    background-color: #f0f00f;
+.yellow {
+    background-color: yellow;
 }
